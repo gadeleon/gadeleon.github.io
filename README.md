@@ -1,2 +1,0 @@
-# gadeleon.github.io
-githubpage
