@@ -15,15 +15,18 @@
 # in the templates via {{ site.myvariable }}.
 title: Now It's Awkward
 description: >- # this means to ignore newlines until "baseurl:"
-    Problem solving games, the Japanese language, and information security.
+    Problem solving games, the Japanese language, and information security
+    one uncomfortable conversation at a time.  
+    ぎこちない会話によって問題解決をしています。たまにテレビゲームをしたりネット    ワーク・セキュリティについてを書きますでも。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https//nowitsawkward.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gabrieldeleon
 github_username:  gadeleon
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: jekyll-theme-so-simple
+theme: jekyll-theme-basically-basic
 plugins:
   - jekyll-feed
 
@@ -38,3 +41,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Pagination
+paginate: 3
