@@ -3,10 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-Problem solving games, the Japanese language, and information security
-one uncomfortable conversation at a time.  
+Sometimes Security Analyst, sometimes Security Engineer. Consistently studying Japanese or wondering what games I should be playing.  
 
-ぎこちない会話によって問題解決をしています。たまにテレビゲームをしたりネット
-ワーク・セキュリティについてを書きますでも。
-
-
+10年来ごろネットワーク・セキュリティの産業に勤めています。未来に日本に引っ越しますから、最近もっと日本語を勉強しています。
