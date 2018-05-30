@@ -13,12 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+
 title: Now It's Awkward
 description: >- # this means to ignore newlines until "baseurl:"
     "I have to come up with another zinger? Do you not see that homepage!?"
-url: "https//nowitsawkward.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+#baseurl: 
+url: "https//nowitsawkward.com"
 twitter_username: gabrieldeleon
 github_username:  gadeleon
+email: webmaster@nowitsawkward.com
 
 # Build settings
 markdown: kramdown
@@ -42,7 +47,7 @@ plugins:
 # Pagination
 paginate: 3
 
-# Author
-author: 
-  name: Gabriel Deleon
-  twitter: gabrieldeleon
+# See _data/authors.yml for authors
+# Default Author is English
+author: gabriel
+
