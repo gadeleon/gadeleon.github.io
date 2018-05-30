@@ -4,7 +4,7 @@ title: Soft Launch
 date: 2018-05-30 17:54:56 -0400
 categories: social
 ---
-<img src="https://lh6.googleusercontent.com/ScjQVE8jVh99vpiNHbSgcIXtEs5sNAliyuZ4_VoINMCok5OeKjO0Ff7ws2CNxpp1JKAJWADzd3hft8t78hBD=w2880-h1340" class="align-center" 
+<img src="https://i.imgur.com/PXV2HWI.jpg" class="align-center" 
   alt="There's only one word to describe this site and I'm gonna spell it out for ya!">
 
 Hello and welcome! If you're reading this, you probably know me on some 
