@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Now It's Time
-date: 2018-07-02 11:00:00 -0400
+date: 2018-07-02 12:00:00 -0400
 categories: social
 tags: terror
 ---
