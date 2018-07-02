@@ -17,7 +17,7 @@ gives one of the most rousing speeches that has ever graced the silver screen.
 
 <img src="https://i.imgur.com/1jJM8dK.jpg" class="align-center"
   alt="Source: https://i.ytimg.com/vi/_6VI6RPxZfI/hqdefault.jpg">  <center>With 
-  Will Smith and Jeff Goldbloom, Earth was <i>*stacked!*</i></center>
+  Will Smith and Jeff Goldblum, Earth was <i>*stacked!*</i></center>
 
 
 I wanted to bang out some inspirational words of my own and confidently <s>board 
@@ -35,11 +35,11 @@ extremely correct. There's a lot of <i>hurry-up-and-wait</i> that goes
 along with relocation whether it's waiting for a visa to process or waiting for
 confirmation for housing. There's late-night phone calls, email threads, and 
 sharing documents to coordinate the move. I'd say most of the stress has come
-from the fact that I have too much control over the situation and I have no idea
-what I am doing. I was initially hoping I'd provide dates and they would provide 
+from the fact that I feel I have too much control over the situation and I have no idea
+what I am doing! I was initially hoping I'd provide dates and they would provide 
 itineraries for me to pick. In reality, I've done most of the planning 
-and handing it to them for approval. I was hoping that packing was the only 
-agency I needed to exert for the move.
+and handing it to them for approval. Packing was the only agency I wanted to 
+exert for the move.
 
 It's very odd to boil your life down to two oversized suitcases
 and a massive 40L travel backpack. It's not a case of "you learn what
@@ -64,18 +64,15 @@ I eventually settled on the Binary Sunset for this post's image (largely because
 I love <i>Star Wars</i>). For Luke, he was looking off to the horizon dreaming
 of being something more than a simple farm boy. As it would turn out, this scene was 
 simultaneously the sunset of Luke's old life and the dawn of his next one. 
-As I get closer to my travel date, I've been breaking rules of New Yorkers 
-(like looking up) and absorbing as much of the scenery I can. 
-I've been guilty of "taking in" a sunset or two and it's been reminding me of 
-the scene from <i>A New Hope</i>. I recognize I'm not going off to war so the 
-odds of my death are significantly low; however, I still acknowledge the 
-apprehension I am feeling while recognizing I'm fairly fortunate to be in this 
-predicament in the first place. 
+As I get closer to my travel date, I've been guilty of "taking in" a sunset or 
+two and it's been reminding me of this scene from <i>A New Hope</i>. I recognize 
+I'm not going off to war; however, I still acknowledge the apprehension I am 
+feeling. I then remind myself that I'm fortunate to be in this predicament in 
+the first place. It's bittersweet.
 
 The sun is starting to set on a wonderful part of my life and I can only hope 
-that the  work I put into my next one is just as rewarding. The next time you 
-hear from me, it'll probably be in a different time zone! If you'll excuse me, 
-I'm going to go cry some more!
+that the work I put into my next one is just as rewarding. The next time you 
+hear from me, it'll probably be in a different time zone! 
 
 
   
