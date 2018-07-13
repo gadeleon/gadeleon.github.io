@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nude Trump
-date: 2018-07-12 20:19:10 +0900
+date: 2018-07-13 20:04:00 +0900
 categories: social
 ---
 <img src="https://i.imgur.com/uvOmVFM.jpg" class="align-center" 
