@@ -20,7 +20,7 @@ It's been one full week since I landed in Tokyo and I've learned several things:
 Tokyo is hot. Unmercifully, brutally, hot. But it's the humidity. The humidity 
 compels you to collapse against the closest wall and melt into a puddle of your
 own sweat. After walking for ten minutes, you're already coated in a pronounced 
-sheen of sweat and it's only 8:45AM. Pretty much every shirt I've worn has had 
+sheen of misery and it's only 8:45AM. Pretty much every shirt I've worn has had 
 two shades of color: normal and damp. Thankfully the damp comes in several 
 designs based on however I wear my backpack; I've been trying to mix it up and 
 see which configurations look better where. 
@@ -40,7 +40,7 @@ assume Tokyo has three times the population. While train cars are bigger, pretty
 much every one is like the 4,5,6 during rush hour. There's an added bonus that
 the platforms quickly fill up like Atlantic Avenue does when the Q breaks down. 
 Once the trains open, a wave of people cascade towards the nearest exits and you 
-hope you're not pulled away by commuter's dangling backpack. My ability to weave
+hope you're not pulled away by a commuter's dangling backpack. My ability to weave
 in and out of traffic has been put to the test here and I seem to be doing well.
 
 I always felt confident in my ability to navigate crowds while in New York; 
