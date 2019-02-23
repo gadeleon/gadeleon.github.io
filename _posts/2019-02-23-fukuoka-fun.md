@@ -70,26 +70,29 @@ day.
 After a 40 minute walk, I came across the ruins which are now preserved as a
 national park and recreation area. Soccer fields and tennis courts
 surround the deceptively large ruins. I navigated through the 
-12 feet high stone walls and was delighted to see the Cherry Blossom trees were 
-starting to bud. 
+tall stone walls and was delighted to see the Cherry Blossom trees were 
+starting to bud in the castle grounds. 
 
 <img src="https://i.imgur.com/cGPiMEA.jpg" width="400" height="400"
 class="align-center" alt="Placeholder: Cherry Blossom Photo">
 
-It turns out in Feudal Japan that castles were basically small villages. Hence, 
-they needed to be more than just fortresses. Go figure. At the top I experienced 
-some of my favorite views overlooking the nearby Ohori Park (大濠公園):
+As it turns out in Feudal Japan, castles were basically small villages housing
+lords, nobility, and pretty much whoever the castle ruler wanted nearby. The 
+more important people were higher up the castle grounds. At the top I experienced 
+some of my favorite views overlooking the nearby Ohori Park (大濠公園). "Ohori" 
+is Japanese for moat and the park lives up to the name. About half of the park  
+is a really big lake which you can see part of below!
 
 <img src="https://i.imgur.com/8vnqnh9.jpg" width="400" height="400"
 class="align-center" alt="Placeholder: Castle View Photo">
 
 
 I had a fantastic time walking around both Fukuoka and Hakata. I surprised maybe
-four or five people with my Japanese. One local was so surprised he took a photo
+four or five people with my Japanese. One local was so impressed he took a photo
 with me. Most would say with "Wow, you're Japanese is great!" but I brought them 
 back down to Earth by replying "not really, I'm at the level of a two-year old." 
 It's a bit of a canned phrase I've developed here but I still appreciated the 
-reply from the man who joked "No, you're more like a three-year old!" 
+reply from a man who joked "No, you're more like a three-year old!" 
 
 That's all from me for now. You'll be hearing more about my primary adventure
 in Fukuoka another time! Please enjoy one of the last photos I took: a view of 
