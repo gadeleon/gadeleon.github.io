@@ -80,7 +80,7 @@ It turns out in Feudal Japan that castles were basically small villages. Hence,
 they needed to be more than just fortresses. Go figure. At the top I witnessed 
 my favorite views overlooking the nearby Ohori Park (大濠公園):
 
-<img src="https://https://i.imgur.com/8vnqnh9.jpg" width="400" height="400"
+<img src="https://i.imgur.com/8vnqnh9.jpg" width="400" height="400"
 class="align-center" alt="Placeholder: Castle View Photo">
 
 
