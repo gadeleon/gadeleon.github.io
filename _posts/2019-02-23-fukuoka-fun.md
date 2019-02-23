@@ -29,8 +29,9 @@ Kyuushuu).
 I didn't have much opportunity to learn about the history of Fukoka City itself
 but I did learn a few interesting things. Fukuoka was originally two different
 cities: Fukoka and Hakata (博多). These two cities were separated by the Nakasu
-River (中洲川) with Fukuoka to the West and Hakata to the East. I walked along 
-this river quite a bit over the weekend and the photos I have don't quite do
+River (中洲川) with Fukuoka to the West and Hakata to the East. Today Hakata is
+part of Fukuoka City but the eastern half is still called Hakata. I walked along
+the Nakasu River quite a bit over the weekend and the photos I have don't quite do
 it justice:
 
 
@@ -47,7 +48,7 @@ get in the way of the locals.
 <img src="https://i.imgur.com/lC0bhZE.jpg" width="400" height="400"
 class="align-center" alt="Placeholder: Food Tent Photo">
 
-So Fukuoka was the residential area for the Samurai class; Hakata, 
+In the past, Fukuoka was the residential area for the Samurai class; Hakata, 
 the mercantile (is that the right word?) class. In Japan, these two groups 
 historically didn't get along but Fukuoka's Samurai, largely due to the
 geographical separation, were able to not-be-jerks to the merchants of Hakata 
@@ -68,19 +69,19 @@ day.
 
 After a 40 minute walk, I came across the ruins which are now preserved as a
 national park and recreation area. Soccer fields and tennis courts
-surround the deceptively large ruins. There are stone walls roughly 
-12 feet high and the Cherry Blossom trees were barely starting to bud. 
+surround the deceptively large ruins. I navigated through the 
+12 feet high stone walls and was delighted to see the Cherry Blossom trees were 
+starting to bud. 
 
 <img src="https://i.imgur.com/cGPiMEA.jpg" width="400" height="400"
 class="align-center" alt="Placeholder: Cherry Blossom Photo">
 
-It turns out, in Feudal Japan, castles were basically small villages and hence, 
-they needed to be more than just fortresses. At the top I witnessed my favorite 
-views overlooking the nearby Ohori Park (大濠公園):
+It turns out in Feudal Japan that castles were basically small villages. Hence, 
+they needed to be more than just fortresses. Go figure. At the top I witnessed 
+my favorite views overlooking the nearby Ohori Park (大濠公園):
 
 <img src="https://https://i.imgur.com/8vnqnh9.jpg" width="400" height="400"
 class="align-center" alt="Placeholder: Castle View Photo">
-
 
 
 I had a fantastic time walking around both Fukuoka and Hakata. I surprised maybe
