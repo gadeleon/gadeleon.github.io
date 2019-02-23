@@ -32,7 +32,7 @@ cities: Fukoka and Hakata (博多). These two cities were separated by the Nakas
 River (中洲川) with Fukuoka to the West and Hakata to the East. Today Hakata is
 part of Fukuoka City but the eastern half is still called Hakata. I walked along
 the Nakasu River quite a bit over the weekend and the photos I have don't quite do
-it justice:
+it justice.
 
 
 <img src="https://i.imgur.com/Bmp4MnM.jpg" width="400" height="400"
@@ -49,15 +49,15 @@ get in the way of the locals.
 class="align-center" alt="Placeholder: Food Tent Photo">
 
 In the past, Fukuoka was the residential area for the Samurai class; Hakata, 
-the mercantile (is that the right word?) class. In Japan, these two groups 
+the mercantiles. (is that the right word?). In Japan, these two groups 
 historically didn't get along but Fukuoka's Samurai, largely due to the
 geographical separation, were able to not-be-jerks to the merchants of Hakata 
-and instead would just buy their wares, goods, and services.
+Instead they would just buy their goods and services like restaurants.
 
-The "Fukuoka dish" is ramen. Specifically, "Hakata Style" which is very hearty 
-(re: fatty & oily) and a bit spicy (by Japanese standards, ie: not very). The 
-only ramen I sampled happened to be a chain restaurant (whoops!) but it was 
-still _very_ good!
+Speaking of food, the "Fukuoka dish" is ramen. Specifically "Hakata Style" which
+is very hearty (re: fatty & oily) and a bit spicy (by Japanese standards, ie: 
+not very). The only ramen I sampled happened to be a chain restaurant (whoops!)
+but it was still _very_ good!
 
 <img src="https://i.imgur.com/GndJ8Vj.jpg" width="400" height="400"
 class="align-center" alt="Placeholder: Ramen Photo">
@@ -68,10 +68,10 @@ When I read "Fukuoka Castle Ruins," I immediately knew where I'd spend half my
 day.
 
 After a 40 minute walk, I came across the ruins which are now preserved as a
-national park and recreation area. Soccer fields and tennis courts
-surround the deceptively large ruins. I navigated through the 
-tall stone walls and was delighted to see the Cherry Blossom trees were 
-starting to bud in the castle grounds. 
+national park and recreation area. I noticed soccer fields, tennis courts, and
+small open fields (where I saw people flying kites) surround the deceptively 
+large ruins. I navigated through the tall stone walls and was delighted to see 
+the Cherry Blossom trees were starting to bud in the castle grounds. 
 
 <img src="https://i.imgur.com/cGPiMEA.jpg" width="400" height="400"
 class="align-center" alt="Placeholder: Cherry Blossom Photo">
@@ -80,7 +80,7 @@ As it turns out in Feudal Japan, castles were basically small villages housing
 lords, nobility, and pretty much whoever the castle ruler wanted nearby. The 
 more important people were higher up the castle grounds. At the top I experienced 
 some of my favorite views overlooking the nearby Ohori Park (大濠公園). "Ohori" 
-is Japanese for moat and the park lives up to the name. About half of the park  
+is Japanese for moat and the park lives up to the name. About half of the park
 is a really big lake which you can see part of below!
 
 <img src="https://i.imgur.com/8vnqnh9.jpg" width="400" height="400"
